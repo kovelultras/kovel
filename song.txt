@@ -7,8 +7,4 @@ so opisodif
 
 sim 123
 dff
-sfd
 
-sdfds
-
-fdf
