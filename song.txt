@@ -8,4 +8,8 @@ so opisodif
 sim 123
 dff
 
+<<<<<<< HEAD
 ew
+=======
+d
+>>>>>>> 9247910a35b2f737859aa7890bae66959d6e0434
